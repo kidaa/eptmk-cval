@@ -1,0 +1,5 @@
+BACKGROUND: In the Term Breech Trial, the risk of adverse perinatal outcome was lower with planned cesarean section versus planned vaginal birth. We undertook secondary analyses to determine factors associated with adverse perinatal outcome.
+STUDY DESIGN: By using multiple logistic regression analyses, we determined the effect of prelabor cesarean section, cesarean section during early labor, cesarean section during active labor versus vaginal birth, and other factors, on adverse perinatal outcome. For 1384 fetuses delivered after labor, we determined the effect of variables associated with labor on adverse perinatal outcome.
+RESULTS: The risk of adverse perinatal outcome was lowest with prelabor cesarean section (odds ratio [OR]=0.13) and highest with vaginal birth. For those delivered after labor, labor augmentation (P=.007), birth weight less than 2.8 kg (P=.003), and longer time between pushing and delivery (P<.001) increased the risk, whereas the presence of an experienced clinician at delivery (P=.004) reduced the risk of adverse perinatal outcome.
+CONCLUSION: Breech infants at term are best delivered by prelabor cesarean section.
+

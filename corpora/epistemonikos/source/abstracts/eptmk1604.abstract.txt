@@ -1,0 +1,6 @@
+OBJECTIVE: For long-term treatment effects, patients with subacute back pain need to adhere to treatment recommendations beyond the prescribed exercise treatment. Adherence rates are as low as 30%, so we developed a cognitive-behavioural training programme to enhance patients' self-efficacy, maximise severity perceptions and reduce barrier perceptions.
+METHOD: A 2 x 4 (group x time) repeated measurement design was applied. Forty-seven patients with non-specific, subacute back pain were randomly assigned to a training group (exercise treatment plus cognitive-behavioural training programme) or a control group (exercise treatment only).
+RESULTS: Repeated measures ANOVA revealed significant main and interaction effects; the training group reported enhanced self-efficacy and severity perceptions, reduced barrier perceptions, and self-reported that they exercised more often than the control group over time. However, no group differences regarding pain intensity emerged.
+CONCLUSION: Our findings demonstrate that a short and inexpensive cognitive-behavioural training programme is an effective tool to enable back pain patients to follow treatment recommendations on a regular basis.
+PRACTICE IMPLICATIONS: The short and simple intervention can easily be conducted by personnel, other than psychologists, i.e., physiotherapists.
+

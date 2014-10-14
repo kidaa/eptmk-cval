@@ -1,0 +1,7 @@
+OBJECTIVE: To compare the efficacy of a commercial spacer device versus an improvised spacer device in delivering aerosolized beta-2 agonist through metered dose inhaler in an acute exacerbation of bronchial asthma.
+DESIGN: Randomized controlled trial.
+SETTING: Urban tertiary care teaching hospital.
+METHODS: 60 children between 1 to 12 years of age with acute asthma were prospectively enrolled and randomized into two groups. Detailed history, clinical evaluation and appropriate laboratory investigations were recorded on a pretested proforma. One group received inhaled salbutamol using metered dose inhaler via commercial spacer device (Group 1), while the other received it via improvised spacer device (Group II). The response was sequentially assessed after 20, 40 and 60 minutes of institution of therapy.
+RESULTS: The two groups were comparable with respect to various parameters at presentation (p > 0.05). All the outcome parameters showed a significant improvement with time in both groups (p < 0.05). There was no statistical difference between the response in the two groups (p< 0.05).
+CONCLUSION: Metered dose inhaler with improvised spacer device is equivalent in efficacy and a more cost effective alternative to metered dose inhaler with commercial spacer for administration of beta-2 agonist in acute asthma.
+

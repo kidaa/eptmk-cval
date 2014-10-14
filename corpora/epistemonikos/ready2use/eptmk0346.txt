@@ -1,0 +1,2 @@
+Pacemaker and ICD generator reliability: meta-analysis of device registries
+CRD SUMMARY: This review aimed to determine annual rates of malfunction in pacemakers and implantable cardioverter-defibrillator (ICD) generators. The author concluded that pacemaker reliability has improved substantially, and that the annual ICD malfunction rate is 20-fold higher than the pacemaker rate between 1988 and 2004. Owing to substantial methodological limitations, the extent to which the author's conclusions are reliable is unclear.

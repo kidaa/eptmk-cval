@@ -1,0 +1,5 @@
+OBJECTIVE: To compare oral ibuprofen with intravenous ibuprofen for closure of patent ductus arteriosus in very low birth weight (VLBW) preterm infants.
+STUDY DESIGN: In a prospective, randomized study, 102 VLBW preterm infants with patent ductus arteriosus received either intravenous or oral ibuprofen at an initial dose of 10 mg/kg, followed by 5 mg/kg at 24 and 48 hours. The success rate and evaluation of renal tolerance using cystatin-C were the major outcomes.
+RESULTS: Patent ductus arteriosus closure rate was significantly higher with oral ibuprofen (84.6% versus 62%) after the first course of the treatment (P = .011). The cystatin-C level increased significantly after treatment in the oral group (P = .001), but did not change with intravenous ibuprofen (P = .4).
+CONCLUSIONS: Oral ibuprofen is more effective than intravenous ibuprofen for ductal closure in VLBW infants. The increase in the cystatin-C level with oral treatment suggests that patients with borderline renal function should be evaluated and followed closely.
+

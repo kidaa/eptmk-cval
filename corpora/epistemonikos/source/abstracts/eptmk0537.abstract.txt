@@ -1,0 +1,5 @@
+OBJECTIVES: Data from the 1992, 1993, and 1994 Monitoring the Future Surveys were used to investigate the differential effects of cigarette price on the intensity of youth cigarette smoking.
+METHODS: Respondents were classified into non-smokers; individuals who smoked less than one cigarette per day; individuals who smoked one to five cigarettes per day; individuals who smoked one-half pack a day; and individuals who smoked one pack or more a day. A Threshold of Change Model was estimated with information on cigarette prices as the main explanatory variables.
+RESULTS: Dummy variables indicating medium and high prices were found to have varying effects on different levels of smoking intensity, even though higher prices were associated with lower smoking in all cases. The differences are more striking in the high-price case. The effects of higher prices are largest at the heaviest smoking levels.
+CONCLUSION: Cigarette prices are an effective tool to discourage youth smoking. The differential effects of cigarette price on smoking intensity warrant further investigation.
+

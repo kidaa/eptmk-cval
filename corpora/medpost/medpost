@@ -1,0 +1,56 @@
+#/bin/sh
+
+VERSION_DATE="Tue Jul 15 15:12:52 2008"
+DIST_KEY="2008_7_15_15_12_52"
+
+MEDPOST_HOME=/home/skibo/Python2.7/eptmk2/corpora/medpost
+INSTALL_DATE="Thu Nov 21 13:22:41 2013"
+
+case $INSTALL_DATE in
+NA)
+	echo medpost: created $VERSION_DATE, not installed
+	exit
+	;;
+esac
+
+TOKENIZER="$MEDPOST_HOME/util/tokenizer -home $MEDPOST_HOME"
+TAGGER="$MEDPOST_HOME/util/tagger"
+
+TOPT=0
+POPT=0
+for opt in $@
+do
+case $opt in
+# The previous (perl) version of the tokenizer is still available
+-oldtok)
+	TOKENIZER="perl $MEDPOST_HOME/util/tokenizer.perl -silent -home $MEDPOST_HOME"
+	;;
+-penn)
+	TRANS="perl $MEDPOST_HOME/util/medpost2tag.perl -penn -preserve"
+	TOPT=1
+	;;
+-claws2)
+	TRANS="perl $MEDPOST_HOME/util/medpost2tag.perl -claws2 -preserve"
+	TOPT=1
+	;;
+-command)
+	EOPT=1
+	;;
+-version)
+	echo medpost: created $VERSION_DATE, installed $INSTALL_DATE
+	exit
+	;;
+esac
+done
+
+case "${EOPT:-0}${TOPT:-0}${POPT:-0}" in
+000) $TOKENIZER $@ | $TAGGER ;;
+001) $TOKENIZER $@ | $TAGGER | $POST ;;
+010) $TOKENIZER $@ | $TAGGER | $TRANS ;;
+011) $TOKENIZER $@ | $TAGGER | $POST | $TRANS ;;
+100) echo "$TOKENIZER $@ | $TAGGER" ;;
+101) echo "$TOKENIZER $@ | $TAGGER | $POST" ;;
+110) echo "$TOKENIZER $@ | $TAGGER | $TRANS" ;;
+111) echo "$TOKENIZER $@ | $TAGGER | $POST | $TRANS" ;;
+esac
+

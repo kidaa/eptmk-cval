@@ -1,0 +1,1 @@
+The atopy patch tests for detection of cow's milk allergy with digestive symptoms.

@@ -1,0 +1,1 @@
+Does this patient have ventilator-associated pneumonia?

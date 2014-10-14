@@ -1,0 +1,5 @@
+BACKGROUND: A beneficial effect of selegiline (L-deprenyl) in Alzheimer's disease (AD) has been reported in several clinical studies.
+METHODS: The brain tissue from 17 deceased patients, members of a double-blind clinical trial to assess the potential benefit of selegiline in AD, were analysed.
+FINDINGS: In our study, the decrease in the Mini-Mental State Examination (MMSE) scores during the progress of the disease had been significantly influenced by selegiline treatment. Prior to death, the MMSE scores were significantly higher in those patients receiving selegiline than in those receiving placebo. However, according to our results, none of the lesions critical for AD diagnosis, such as counts of senile/neuritic plaques, neurofibrillary tangles or beta-A4 load, were influenced by the selegiline treatment.
+INTERPRETATION: In conclusion, according to our study, mechanisms other than neuronal degeneration seen as lesions critical for AD diagnosis are influenced by selegiline treatment, leading to the functional benefit found in AD.
+

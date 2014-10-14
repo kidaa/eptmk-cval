@@ -1,0 +1,2 @@
+Does this patient have ventilator-associated pneumonia?
+CRD SUMMARY: The review evaluated the precision and accuracy of clinical variables and tests, compared with histology, for diagnosing bacterial ventilator-associated pneumonia. It concluded that radiographic information together with routine bedside evaluations may be indicative of ventilator-associated pneumonia, but additional tests should be considered. The conclusions should be regarded with caution given the shortcomings in review methodology.

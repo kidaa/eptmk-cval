@@ -1,0 +1,5 @@
+Conservative treatments of children with episodic tension-type headache. A systematic review.
+OBJECTIVE: We aimed to assess the effectiveness of conservative treatments in children with tension-type headaches (TTH).
+METHOD: We searched Medline, Embase and the Cochrane Library and performed reference checking. Two independent authors assessed trial quality and extracted data. Analysis was carried out according to type of intervention.
+RESULTS: In total we included 11 trials (427 TTH patients, age between 7-18 years) in this review. None of the studies were considered to be of high quality. Eight studies evaluated the effectiveness of relaxation training. Four studies included a waiting list or no treatment control group and in one study a placebo was used.
+CONCLUSION: We found conflicting evidence about the effectiveness of relaxation therapy when compared with no treatment or other treatments, with Relative Risks varying from 1.4 (0.6-3.2) to 10.6 (1.6-71.3). With regard to all other interventions evaluated (such as biofeedback, cognitive therapy or flupirtin) no evidence is found for or against their effectiveness.

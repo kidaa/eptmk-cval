@@ -1,0 +1,39 @@
+#!/bin/sh
+
+../medpost -version
+
+../medpost -titles -id query.itame > test.out
+
+if diff -b test.out query.tagged > /dev/null
+then
+echo Test ok on ITAME file
+else
+echo Test failed on ITAME file
+exit
+fi
+
+
+../medpost -titles -id -xml query.xml > test.out
+
+if diff -b test.out query.tagged > /dev/null
+then
+echo Test ok on XML file
+else
+echo Test failed on XML file
+exit
+fi
+
+
+../medpost -titles -id -medline query.medline > test.out
+
+if diff -b test.out query.tagged > /dev/null
+then
+echo Test ok on MEDLINE file
+else
+echo Test failed on MEDLINE file
+exit
+fi
+
+echo Tests completed
+
+rm test.out

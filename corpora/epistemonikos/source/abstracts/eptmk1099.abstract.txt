@@ -1,0 +1,5 @@
+AIM: A systematic review of randomized controlled trials reporting on the comparison of minimally invasive THA and standard incision technique.
+METHOD: An online search in Medline, CINAHL,EMBASE, and the Cochrane Controlled Trials Register was performed. Data concerning the endpoints duration of procedure, blood loss,complications, and Harris Hip Score (HHS) were extracted and pooled using a random effects model.
+RESULTS: 8 Studies observing a total of 917 patients(481 MIS, 436 Std.) were included. The weighted mean difference in duration of the procedures was 4 min, which is not significant(p = 0.21). There was significantly less blood loss in the mini group (p < 0.001). The difference in increases in HHS of averagely 4.14 pts. was only borderline significant (p = 0.06). The complication odds ratio showed no significance (p = 0.71).
+CONCLUSION: There is only a marginal difference between these techniques. The minimally invasive total hip replacement is a variance of the standard procedure with better cosmesis. Differences in postoperative rehabilitation, however,are not within the scope of this study.
+

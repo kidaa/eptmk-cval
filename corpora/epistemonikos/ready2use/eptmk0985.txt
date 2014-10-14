@@ -1,0 +1,2 @@
+The atopy patch tests for detection of cow's milk allergy with digestive symptoms.
+Infants (n = 35) with digestive symptom were investigated for diagnosis of cow's milk allergy (CMA). Milk atopy patch tests (APTs) were positive in 19 of 24 CMA versus 1 of 11 in non-CMA patients (P <.001). This sensitivity (79%) and specificity (91%) suggest that the APT could improve the detection of conditions related to CMA.

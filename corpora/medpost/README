@@ -1,0 +1,21 @@
+Medpost corpus & tagger
+
+Downloaded from:
+http://www.nactem.ac.uk/software.php?software=speechtaggers
+
+I tried other versions (like the sourceforge one) and I couldn't compile
+them or didn't work. This one works.
+
+To install:
+- make dir and copy distribution file inside.
+$ gunzip medpost.tar.gz
+$ tar xf medpost.tar
+$ make
+
+To transform tagset to Penn Treebank:
+perl MEDPOST_PATH/util/medpost2tag.perl -penn -preserve [file...]
+
+Last command is used on *.ioc files inside tagged/ dir. It sends the
+translation to Penn Treebank tagset of the file to stdout. Therefore, redirect
+the stdout of the command to another file to save the results.
+For an example, look at trans2tbank.bash script in this directory.

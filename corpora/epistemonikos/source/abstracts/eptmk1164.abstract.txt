@@ -1,0 +1,5 @@
+BACKGROUND: Previous studies have shown an increase in plasma levels of norepinephrine (NE) after clozapine treatment of schizophrenia. This effect has been suggested to relate to improvement in symptoms.
+METHODS: To test whether other novel antipsychotic drugs have such an effect, the present experiment examined schizophrenic symptoms and plasma levels of NE before and after 5 weeks of treatment with risperidone or haloperidol.
+RESULTS: Risperidone, but not haloperidol, significantly increased plasma NE; however, there was no correlation of this effect with clinical improvement on any symptom scale.
+CONCLUSIONS: This finding suggests that risperidone shares similar properties with clozapine in enhancing peripheral NE, but that these changes in plasma NE may not be a consistent indicator of atypical antipsychotic drug efficacy.
+

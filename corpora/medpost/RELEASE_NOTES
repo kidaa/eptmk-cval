@@ -1,0 +1,171 @@
+This file contains notes on the various releases that have been available.
+Notes on the latest release can be found at the end of this file. For more
+details on the changes, or to request a copy of a previously released
+version, contact the author at lsmith@ncbi.nlm.nih.gov.
+
+
+RELEASE: 2003_9_5_16_59_45
+
+First release, as described in
+
+	Smith L, Rindflesch T and Wilbur WJ. (2004)
+	MedPost: a Part of Speech Tagger for Biomedical Text.
+	Bioinformatics, 20(14), 2320-2321.
+
+RELEASE: 2003_9_24_17_45_37
+
+Minor corrections to the first release.
+
+Added files
+
+	models/lex.open_10000
+	models/lex.open_ML
+	models/lex.open_MB
+	models/lex.open_other
+	models/lex.closed
+	models/lex.end
+	models/words.db
+
+Modified files
+
+	INSTALL.medpost
+	medpost
+	makefile
+	doc/medpost.1
+	models/lex.cur
+	models/rules.cur
+	src/lex.C
+	src/tagger.C
+	util/tokenizer.C
+	util/tag2penn.perl
+	util/rules.perl
+
+RELEASE: 2004_10_20_16_35_31
+
+Minor corrections.
+
+The files in the directory "tagged" were given a ".ioc" extension.
+The empty file "tagged/tag_cl" was removed.
+
+Modified files
+
+	medpost
+	doc/medpost.1
+	models/lex.end
+	models/lex.cur
+	models/ngrams.cur
+	src/tagger.h
+	src/tagger.C
+	util/tokenizer.perl
+	util/tag2penn.perl
+	util/query.tagged
+
+
+RELEASE: 2005_1_10_20_2_45
+
+Modified files
+
+	medpost
+	src/tagger.C
+	util/tokenizer.perl
+
+RELEASE: 2005_4_28_15_55_31
+
+Added files
+
+	tagged/tag_cl.ioc
+
+Modified files
+
+	medpost
+	doc/medpost.1
+	models/lex.open_10000
+
+RELEASE: 2005_9_23_14_43_28
+
+Minor correctionsr, and changes to the lexicon and the tagged corpus.
+
+No files were added or deleted.
+
+Modified files
+
+	medpost
+	doc/medpost.1
+	models/lex.open_10000
+	models/lex.closed
+	models/lex.cur
+	src/makefile
+	src/tagger.C
+	tagged/tag_mb.ioc
+	tagged/tag_mb01.ioc
+	tagged/tag_mb02.ioc
+	tagged/tag_mb03.ioc
+
+RELEASE: 2006_11_2...
+
+The source code was substantially reorganized, and a C++ class library is now
+provided with examples. An improved sentence segmentation algorithm is included.
+
+The lexicon now contains an expanded list of multi-word lexical items, including verbs.
+The lexicon entries for some of the most frequent verbs were modified to improve their
+tagging accuracy.
+
+The annotations of the corpus (the ".ioc" files in the tagged subdirectory) were modified,
+the majority of the changes related to tagging of multi-word lexical items, which now include
+some verbs.
+
+The name of the file INSTALL.medpost was changed to INSTALL.
+
+Removed files
+
+	models/ (and all files in this directory)
+	src/tagger.h
+	src/lex.C
+	src/lex.h
+	util/rules.perl
+	util/tag2spec.perl (a tagger for this tag set is available in UMLS)
+
+Added Files
+
+	RELEASE_NOTES
+	src/MPtok.C (reorganized and rewritten source files)
+	src/MPlex.h
+	src/MPlex.C
+	src/MPtag.h
+	src/MPtok.h
+	src/MPtag.C
+	src/MPpar.h
+	src/MPpar.C (pattern based chunker, not supported)
+
+	src/MPtagEX1.C (example programs)
+	src/MPtagEX2.C
+	src/MPtokEX1.C
+	src/MPtokEX2.C
+	src/MPtokEX3.C
+	src/MPparEX1.C (pattern based chunker, not supported)
+
+	medpost.lex (renamed lexicon)
+	medpost.ngrams (renamed ngrams file)
+	medpost.pairs (used in new sentence segmentation algorithm)
+	words.db (new words database)
+
+Modified files
+
+	medpost
+	makefile
+	src/tagger.C
+	src/makefile
+	src/tokenizer.C
+	util/install.perl
+	test/runtest
+	test/query.tagged
+
+
+RELEASE 2007_7...
+
+The tag translator script was rewritten. A new option for translating to CLAWS2 is now provided.
+
+RELEASE 2008_6_24_19_2_5
+
+Fixed a bug in tagger causing crash on certain null inputs.
+

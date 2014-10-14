@@ -1,0 +1,5 @@
+Single-blind clinical trial of psychotherapy for treatment of psychogenic movement disorders.
+BACKGROUND: PMD are disabling, but lack any generally accepted treatment strategies.
+DESIGN/METHODS: Ten patients with PMD received treatment with Psychodynamic Psychotherapy. Patients were assessed with psychiatric rating scales and the movement disorder was rated by a blinded rater with the Psychogenic Movement Disorder Rating Scale (PMDRS).
+RESULTS: Total mean PMDRS (p = 0.0195), total PMDRS function scores (p = 0.0142), Hamilton depression scores (p = 0.009), Beck anxiety scores (p = 0.002), and GAF (p = 0.0083) all improved with psychotherapeutic intervention.
+CONCLUSIONS: Psychotherapy and appropriate use of adjunct psychiatric medication can be a successful intervention for PMD.

@@ -1,0 +1,2 @@
+Life after phlebotomy deployment: reducing major patient and specimen identification errors.
+In addition to establishing a non-punitive environment for reporting errors, and analyzing the root causes of errors, The Valley Hospital volunteered to be a beta test site for a barcode specimen management technology. As a result of implementing this positive patient and specimen identification system, the hospital has reduced its patient and specimen misidentification errors by 77 percent in the last year.

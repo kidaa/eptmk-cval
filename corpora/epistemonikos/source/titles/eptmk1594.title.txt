@@ -1,0 +1,1 @@
+Data collected on maternal dietary exposures in the Danish National Birth Cohort.

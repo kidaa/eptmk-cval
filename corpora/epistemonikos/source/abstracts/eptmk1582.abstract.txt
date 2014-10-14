@@ -1,0 +1,9 @@
+OBJECTIVE: To find out whether postoperative enteral feeding is safe and effective in patients with severe pancreatitis.
+DESIGN: Prospective randomised trial.
+SETTING: Teaching hospital, Latvia.
+SUBJECTS: 29 patients who had been operated on for severe pancreatitis.
+INTERVENTIONS: They were randomised to have either enteral nutrition and conventional intravenous fluids postoperatively (n = 11), or conventional intravenous fluids only (n = 18). 17 additional patients who had had major abdominal operations for other conditions were also given enteral nutrition and intravenous fluids and comprised the control group.
+MAIN OUTCOME MEASURES: Nutritional intake, duration of stay in intensive care (ICU) and hospital morbidity, mortality, and outcome.
+RESULTS: 1 patient died of the 11 given enteral nutrition combined with conventional intravenous fluids, compared with 5/18 given fluids only. The pattern of bowel transit in the fed group did not differ from that in the control group.
+CONCLUSION: Postoperative enteral nutrition seems to be safe and effective in patients with severe pancreatitis and may improve survival. Our results suggest that enteral and parenteral nutrition may complement each other in seriously ill patients.
+

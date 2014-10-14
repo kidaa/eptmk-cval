@@ -1,0 +1,5 @@
+OBJECTIVE: This double-blind randomised controlled trial compared the effects of tap water and normal saline on the healing and infection rates of acute and chronic wounds.
+METHOD: The trial was conducted in two metropolitan community health centres in New South Wales, Australia. Thirty-five patients with 49 acute or chronic wounds were randomised to receive wound irrigation with either normal saline or tap water.
+RESULTS: Statistical analysis demonstrated there was no significant difference between the infection and healing rates in wounds irrigated with normal saline or tap water.
+CONCLUSION: Although the small sample size is a limitation of this study, the researchers conclude that drinkable tap water appears to provide a safe alternative to normal saline for wound cleansing and may be preferred by some patients.
+

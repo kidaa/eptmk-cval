@@ -1,0 +1,30 @@
+README
+======
+Author: Antonio Vera, Epistemonikos (antonio.ignacio.vera@gmail.com)
+
+Summary
+=======
+This package contains abstracts, titles and IDs for 1834 documents
+of the Epistemonikos Evidence-Based Healthcare database.
+
+Contents
+========
+
+* A file "all_abstracts.txt", containing all the abstracts in one file.
+
+* Directories "ids", "titles" and "abstracts", each one containing 
+  a collection of files, respectively containing unique identifiers,
+  titles and abstracts. These files are coherently numbered, i.e., 
+  files with same number correspond to the same document.
+
+Notes
+=====
+
+* The files in the "ids" directory contain the unique identifier of 
+  the document, which can be used to view the document in Epistemonikos.
+  
+* For example, the document with id 666c4d773185fb09774f088a3b711aeae60679e3 
+  can be seen at:
+
+  http://www.epistemonikos.org/en/documents/666c4d773185fb09774f088a3b711aeae60679e3
+

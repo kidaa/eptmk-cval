@@ -1,0 +1,5 @@
+OBJECTIVE: We compared the performance characteristics of the 12-lead electrocardiography (ECG) with body surface mapping (BSM) in patients presenting for evaluation of symptoms suggestive of acute coronary syndromes.
+METHODS: The diagnostic test characteristics (sensitivity, specificity, likelihood ratios, and predictive values) for 12-lead ECG and BSM were computed using 3 different criterion standards.
+RESULTS: Of the 150 patients enrolled, 19 were positive for acute coronary syndromes using the criterion standard of cardiac troponin T >0.1 ng/mL, percutaneous coronary intervention, more than 70% stenosis, abnormal noninvasive testing, and coronary artery bypass graft. Changes not known to be old on ECG and BSM had sensitivities of 10.5 (95% confidence interval [CI(95)], 1.8-34.5) and 15.8 (CI(95), 4.2-40.5), and specificities of 90.1 (CI(95), 83.3-94.4) and 86.3 (CI(95), 78.9-91.4), respectively.
+CONCLUSION: In this emergency department population, both the BSM and the 12-lead ECG exhibited similar test characteristics.
+
