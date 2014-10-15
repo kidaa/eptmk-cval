@@ -4,8 +4,8 @@
 from __future__ import division
 import cPickle
 import random
-from corpora import epistemonikos
-#from corpora import genia, medpost
+import os
+from corpora import epistemonikos, genia, medpost
 import nltk
 
 
@@ -175,6 +175,7 @@ def test_backoff_tagger(name_corpus_dict, data_split=0.9, default_tag=None):
             train_pair[0], train_pair[1], key,
             (len(test_sents) / len(all_tagged_sents)) * 100,
             trained_tagger.evaluate(test_sents))
+    print
 
 
 def pprint_tag_stats(tagged_sents, none_tag=None):
@@ -203,6 +204,7 @@ def pprint_tag_stats(tagged_sents, none_tag=None):
     print '# of untagged tokens:\t%s\t%.2f%%\n' % \
         (len(set(untagged_tokens)),
         (len(set(untagged_tokens)) / unique_num) * 100)
+    print
 
 
 def untagged_tokens_freq(tagged_sents, none_tag=None):
@@ -325,31 +327,22 @@ wordnet_tagger() function docstring.
     return ret_sents
 
 
-def main():
+def load_tagged_corpora(show_stats=True):
     """
-main() function docstring.
-    """
-
-    eptmk_untagged = epistemonikos.corpus_load().sents()
-
+Loads the taggaed corpora (GENIA, MedPost and Treebank), makes a few
+changes to the tags, and returns them.
     """
     genia_tagged = genia.corpus_load().tagged_sents()
     mpost_tagged = medpost.corpus_load().tagged_sents()
     tbank_tagged = nltk.corpus.treebank.tagged_sents()
 
     genia_tagged = transform_tags(genia_tagged, GENIA_TAG_SUBS)
-    print '\n\nGENIA sents: ', len(genia_tagged)
     genia_accept, genia_reject = \
         filter_tagged_sents(genia_tagged, VALID_TAGS)
-    print 'GENIA passed:', len(genia_accept)
-    print 'GENIA reject:', len(genia_reject)
 
     mpost_tagged = transform_tags(mpost_tagged, MPOST_TAG_SUBS)
-    print '\nMPOST sents: ', len(mpost_tagged)
     mpost_accept, mpost_reject = \
         filter_tagged_sents(mpost_tagged, VALID_TAGS)
-    print 'MPOST passed:', len(mpost_accept)
-    print 'MPOST reject:', len(mpost_reject)
 
     tbank_tagged = transform_tags(tbank_tagged, TBANK_TAG_SUBS)
     tbank_tagged = fix_tbank_brackets(tbank_tagged)
@@ -357,51 +350,75 @@ main() function docstring.
         tbank_tagged[i] = [               # when tag == '-NONE-'. These
             w for w in tbank_tagged[i]    # shouldn't be there, it's a bug
             if w[1].upper() != '-NONE-']  # in how NLTK loads the corpus.
-    print '\nTBANK sents: ', len(tbank_tagged)
     tbank_accept, tbank_reject = \
         filter_tagged_sents(tbank_tagged, VALID_TAGS)
-    print 'TBANK passed:', len(tbank_accept)
-    print 'TBANK reject:', len(tbank_reject)
 
+    if show_stats is True:
+        print '\n\nGENIA sents: ', len(genia_tagged)
+        print 'GENIA passed:', len(genia_accept)
+        print 'GENIA reject:', len(genia_reject)
+        print '\nMPOST sents: ', len(mpost_tagged)
+        print 'MPOST passed:', len(mpost_accept)
+        print 'MPOST reject:', len(mpost_reject)
+        print '\nTBANK sents: ', len(tbank_tagged)
+        print 'TBANK passed:', len(tbank_accept)
+        print 'TBANK reject:', len(tbank_reject)
+
+    return genia_accept, mpost_accept, tbank_accept
+
+
+def save_tagger():
+    genia_accept, mpost_accept, tbank_accept = \
+        load_tagged_corpora()
     tagged_corpora = concat_corpus(genia_accept, mpost_accept, tbank_accept)
-
     trained_tagger = train_backoff_tagger(tagged_corpora, default_tag=None)
-    with open('tagger.pickle', 'wb') as tagger_file:
-        print '\nPickled and saved POS tagger.\n'
-        cPickle.dump(trained_tagger, tagger_file)
+    test_backoff_tagger({'GENIA': genia_accept, 'MPOST': mpost_accept,
+                         'TBANK': tbank_accept})
+    if not os.path.isfile('tagger.pickle'):
+        with open('tagger.pickle', 'wb') as tagger_file:
+            print '\nPickled and saved POS tagger.\n'
+            cPickle.dump(trained_tagger, tagger_file)
+    else:
+        print '\nFAILED saving tagger.pickle... File already exists!\n'
 
-    #test_backoff_tagger({'GENIA': genia_accept, 'MPOST': mpost_accept,
-    #                     'TBANK': tbank_accept})
-    #print
+
+def tag_eptmk(show_stats=True):
+    eptmk_untagged = epistemonikos.corpus_load().sents()
+    if not os.path.isfile('tagger.pickle'):
+        print ("\ntagger.pickle file doesn't exist! Use save_tagger() function"
+               " to create it.\n")
+    else:
+        with open('tagger.pickle', 'rb') as tagger_file:
+            print '\nLoaded and unpickled POS tagger.\n'
+            trained_tagger = cPickle.load(tagger_file)
+
+        eptmk_tagged = trained_tagger.batch_tag(eptmk_untagged)
+        if show_stats is True:
+            print 'BACKOFF:'
+            pprint_tag_stats(eptmk_tagged, none_tag=None)
+
+        eptmk_tagged = dict_tagger(eptmk_tagged, EPTMK_DICT, none_tag=None)
+        if show_stats is True:
+            print '+ DICT:'
+            pprint_tag_stats(eptmk_tagged, none_tag=None)
+
+        eptmk_tagged = wordnet_tagger(eptmk_tagged, none_tag=None)
+        if show_stats is True:
+            print '+ WNET:'
+            pprint_tag_stats(eptmk_tagged, none_tag=None)
+
+        return eptmk_tagged
+
+
+def main():
     """
-
-    with open('tagger.pickle', 'rb') as tagger_file:
-        print '\nLoaded and unpickled POS tagger.\n'
-        trained_tagger = cPickle.load(tagger_file)
-
-    eptmk_tagged = trained_tagger.batch_tag(eptmk_untagged)
-
-    #print 'BACKOFF:'
-    #pprint_tag_stats(eptmk_tagged, none_tag=None)
-    #print
-
-    eptmk_tagged = dict_tagger(eptmk_tagged, EPTMK_DICT, none_tag=None)
-    #print '+ DICT:'
-    #pprint_tag_stats(eptmk_tagged, none_tag=None)
-    #print
-
-    eptmk_tagged = wordnet_tagger(eptmk_tagged, none_tag=None)
-    #print '+ WNET:'
-    #pprint_tag_stats(eptmk_tagged, none_tag=None)
-    #print
-
-    #print
-    #eptmk_untagged_freqdist = untagged_tokens_freq(eptmk_tagged, none_tag=None)
-    #for i in eptmk_untagged_freqdist.items()[:100]:
-    #    print i[0], i[1]
-
+Before using this function, one has to create file tagger.pickle (the
+trained pos tagger) with save_tagger() function.
+    """
+    eptmk_tagged = tag_eptmk(show_stats=False)
     return eptmk_tagged
 
 
 if __name__ == '__main__':
-    x = main()
+    save_tagger()
+    tag_eptmk(show_stats=True)
