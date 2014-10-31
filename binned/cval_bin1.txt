@@ -1,0 +1,1000 @@
+control group 164.67
+deep venous thrombosis 86.95
+low molecular weight heparin 76.5
+side effects 51.91
+acute myocardial infarction 43.59
+controlled trial 36.81
+treatment groups 36.5
+group a 35.25
+randomised controlled trial 34.24
+cesarean section 30.46
+prospective study 27.71
+human immunodeficiency virus 26.27
+consecutive patients 26.0
+review process 25.5
+cervical intraepithelial neoplasia 25.36
+atrial fibrillation 24.75
+cardiac surgery 23.57
+low-molecular-weight heparin 23.0
+alzheimer ' s disease 22.67
+body weight 21.67
+weight loss 20.88
+placebo-controlled trial 20.71
+massive pulmonary embolism 20.6
+study group 20.5
+total hip replacement 19.81
+myocardial infarction 19.8
+pilot study 19.0
+comparative study 17.33
+autologous blood 17.0
+cancer patients 16.57
+coronary artery bypass graft surgery 16.25
+small sample sizes 14.26
+small number 14.0
+preterm infants 14.0
+mental health 14.0
+coronary artery bypass grafting 14.0
+breast cancer 13.86
+observational studies 13.0
+quality assessment 12.86
+homologous blood 12.75
+continuous intravenous infusion 12.68
+postoperative deep vein thrombosis 12.0
+year follow-up 11.89
+allogeneic blood transfusion 11.89
+prospective randomized trial 11.09
+posttraumatic stress disorder 11.09
+autologous blood transfusion 11.09
+adverse perinatal outcome 11.09
+substance use 10.88
+wound infection 10.33
+double-blind trial 10.33
+multiple sclerosis 10.0
+inferior vena 10.0
+external pneumatic calf compression 10.0
+weeks ' gestation 9.51
+major depressive disorder 9.51
+irritable bowel syndrome 9.51
+chronic heart failure 9.51
+pregnancy rate 9.4
+gestational age 9.4
+mm hg 9.0
+ill patients 9.0
+hiv testing 9.0
+evidence base 9.0
+colorectal cancer 9.0
+randomized controlled study 8.72
+normal saline 8.25
+women ' s autonomy 8.0
+randomized trials 8.0
+radiation therapy 8.0
+marijuana use 8.0
+hiv infection 8.0
+current evidence 8.0
+acute soft tissue injuries 8.0
+peripheral vascular disease 7.92
+glomerular filtration rate 7.92
+double-blind controlled trial 7.92
+clinical asthma severity 7.92
+otitis media 7.67
+year olds 7.0
+strong evidence 7.0
+stroke patients 7.0
+ppm fluoride 7.0
+post-operative pain 7.0
+liver transplantation 7.0
+initial treatment 7.0
+combination therapy 7.0
+clinical signs 7.0
+clinical significance 7.0
+atypical features 7.0
+arm a 7.0
+lung cancer 6.9
+s disease 6.38
+venous thromboembolic disease 6.34
+total blood loss 6.34
+tibial stress fractures 6.34
+spinal cord injury 6.34
+preoperative hair removal 6.34
+pain intensity differences 6.34
+p = ns 6.34
+new york state 6.34
+month follow-up period 6.34
+mg n kg-1 6.34
+major bleeding complications 6.34
+independent risk factor 6.34
+group a patients 6.34
+femoral neck fractures 6.34
+congenital heart surgery 6.34
+co2 laser vaporization 6.34
+chronic kidney disease 6.34
+advanced gastric carcinoma 6.34
+active treatment 6.33
+health care 6.32
+women ' s knowledge 6.0
+venous thromboembolism prophylaxis policy 6.0
+usual care 6.0
+united states 6.0
+statistical analysis 6.0
+short term 6.0
+refusal skills 6.0
+prospective randomized clinical trial 6.0
+overall survival 6.0
+oral candidiasis 6.0
+oesophageal varices 6.0
+median duration 6.0
+mechanical prophylaxis 6.0
+maternal health care utilization 6.0
+low density lipoprotein cholesterol 6.0
+japanese patients 6.0
+human immunodeficiency virus infection 6.0
+health professionals 6.0
+health outcomes 6.0
+first time 6.0
+evaluable patients 6.0
+contextual stress 6.0
+clinical evaluation 6.0
+cardiopulmonary bypass 6.0
+cardiac failure 6.0
+calcium heparin 6.0
+bank blood 6.0
+airway responsiveness 6.0
+folic acid 5.83
+coronary heart disease 5.81
+randomized comparison 5.67
+recurrence rate 5.5
+randomised study 5.33
+visual analogue scale 5.28
+intensive care 5.25
+john ' s regional health center 5.17
+week intervals 5.0
+treatment program 5.0
+symptomatic treatment 5.0
+sodium cromoglycate 5.0
+sinus rhythm 5.0
+review findings 5.0
+pressure ulcers 5.0
+placebo arm 5.0
+permanent teeth 5.0
+patient education 5.0
+moderate hypertension 5.0
+methodological flaws 5.0
+mean volume 5.0
+mean duration 5.0
+maintenance therapy 5.0
+gastric bypass 5.0
+first dose 5.0
+fetal distress 5.0
+cystic fibrosis 5.0
+condom use 5.0
+clinical results 5.0
+cardiac arrest 5.0
+booster programs 5.0
+aortic surgery 5.0
+adolescent girls 5.0
+adjuvant therapy 5.0
+vaginal health index 4.75
+subacute back pain 4.75
+secondary prevention program 4.75
+randomized double-blind trial 4.75
+randomised prospective trial 4.75
+primary outcome measure 4.75
+primary care physicians 4.75
+previous uterine surgery 4.75
+post-operative dental pain 4.75
+overall success rate 4.75
+older adult women 4.75
+non-elective cesarean section 4.75
+neural tube defects 4.75
+microg x day 4.75
+median healing time 4.75
+low fat diet 4.75
+labour admission test 4.75
+invasive bladder cancer 4.75
+impacted third molars 4.75
+health risk behaviors 4.75
+forced vital capacity 4.75
+double-blind randomized trial 4.75
+distal tubal lesions 4.75
+controlled clinical trials 4.75
+brief nurse consultations 4.75
+adult tb patients 4.75
+acid treated group 4.75
+hip replacement 4.67
+stable chronic obstructive pulmonary disease 4.64
+primary unilateral total knee arthroplasty 4.64
+cohen ' s d range 4.64
+chronic obstructive pulmonary disease exacerbations 4.64
+fish oil 4.33
+foot care 4.14
+white blood cell count 4.0
+viral load 4.0
+vaginal misoprostol 4.0
+unstable trochanteric hip fractures 4.0
+uncomplicated acute otitis media 4.0
+trial quality 4.0
+treatment outcomes 4.0
+training programme 4.0
+traditional non-steroidal anti-inflammatory drugs 4.0
+total number 4.0
+total knee replacement surgery 4.0
+topical use 4.0
+test group 4.0
+symptoms s1 4.0
+surgical removal 4.0
+such therapy 4.0
+success rates 4.0
+substance abuse prevention program 4.0
+study participants 4.0
+study details 4.0
+soft drinks 4.0
+resource use 4.0
+real-time strategy video game 4.0
+procedural sedation 4.0
+primary total knee arthroplasty 4.0
+pregnancy rates 4.0
+postoperative blood salvage system 4.0
+postoperative autologous blood salvage 4.0
+placebo-treated subjects 4.0
+physical injury 4.0
+performance status 4.0
+oral contraceptives 4.0
+optimal duration 4.0
+open surgery 4.0
+normal subjects 4.0
+nitric oxide 4.0
+new bone 4.0
+neural tube defect pregnancy 4.0
+neoplastic disease 4.0
+negative pressure wound therapy 4.0
+national emphysema treatment trial 4.0
+multiple logistic regression analysis 4.0
+methadone treatment 4.0
+median follow-up 4.0
+marked improvement 4.0
+many studies 4.0
+lung volume reduction surgery 4.0
+low-risk patients 4.0
+low-dose aspirin 4.0
+low levels 4.0
+laparoscopic port site closure 4.0
+immune reconstitution inflammatory syndrome 4.0
+idiopathic chronic anal fissure 4.0
+hospitalization rates 4.0
+hong kong 4.0
+high rates 4.0
+herniated lumbar disc operations 4.0
+health plan report cards 4.0
+haematological malignancies 4.0
+group b. 4.0
+final sti 4.0
+fertility regulation 4.0
+fabry disease 4.0
+exploratory study 4.0
+emg biofeedback 4.0
+early detection 4.0
+different levels 4.0
+diclofenac sodium 4.0
+depressive disorders 4.0
+degrees c 4.0
+crd commentary 4.0
+complex regional pain syndrome 4.0
+community setting 4.0
+cluster randomised control trial 4.0
+citibank health management program 4.0
+california verbal learning test 4.0
+breast cancer resistance protein 4.0
+blood transfusion febrile reactions 4.0
+arm b 4.0
+anxiety scores 4.0
+antimicrobial therapy 4.0
+alcohol misuse 4.0
+alb group 4.0
+acute deep vein thrombosis 4.0
+abortion decisions 4.0
+prospective trial 3.8
+drug abuse treatment 3.8
+heparin treatment 3.75
+control condition 3.75
+treatment interruption 3.57
+vascular events 3.5
+therapeutic effect 3.5
+primary prevention 3.33
+influenza vaccination 3.33
+treatment failure 3.25
+cd4 count 3.25
+health services 3.2
+group c 3.2
+year follow-up period 3.17
+worse myocardial contractility 3.17
+week exercise program 3.17
+week clinical trial 3.17
+week baseline period 3.17
+varicose vein surgery 3.17
+untreated control group 3.17
+unprotected anal intercourse 3.17
+uncertain study quality 3.17
+two-year follow-up study 3.17
+trauma treatment protocol 3.17
+total pulmonary resistance 3.17
+total hip arthroplasties 3.17
+total complication rate 3.17
+total body water 3.17
+thomas ' hospital 3.17
+symptomatic venous thromboembolism 3.17
+symptomatic pulmonary embolism 3.17
+standard hospital treatment 3.17
+standard community care 3.17
+stable cardiovascular disease 3.17
+social support interventions 3.17
+social cognitive theory 3.17
+social anxiety disorder 3.17
+silver sulfadiazine cream 3.17
+sickle cell anaemia 3.17
+sick listing days 3.17
+shared care scheme 3.17
+severe acute toxicity 3.17
+services task force 3.17
+serum creatinine levels 3.17
+self-reported health status 3.17
+seasonal allergic conjunctivitis 3.17
+saphenous vein grafts 3.17
+saline nose drops 3.17
+risk reduction method 3.17
+repeated postcoital use 3.17
+renal graft thrombosis 3.17
+reducing blood pressure 3.17
+randomized prospective study 3.17
+randomized comparative study 3.17
+randomised clinical trials 3.17
+prospective cohort study 3.17
+preoperative risk factors 3.17
+postpartum venous thrombosis 3.17
+postpartum perineal repair 3.17
+postoperative pulmonary embolism 3.17
+pooled odds ratio 3.17
+polycystic ovarian syndrome 3.17
+placebo-controlled pilot study 3.17
+placebo controlled trial 3.17
+pipe treatment group 3.17
+percutaneous transluminal angioplasty 3.17
+penile surface scanning 3.17
+pediatric age group 3.17
+ovarian cancer patients 3.17
+occupational health centre 3.17
+nursing care plans 3.17
+new delivery system 3.17
+multivariate logistic regression 3.17
+month follow-up data 3.17
+minor head injury 3.17
+metastatic colorectal carcinoma 3.17
+mental health treatment 3.17
+mechanical bowel preparation 3.17
+maximal walking distance 3.17
+mann-whitney u test 3.17
+major gynaecological surgery 3.17
+low-molecular weight heparin 3.17
+low-dose oral misoprostol 3.17
+low socioeconomic status 3.17
+loop diathermy excision 3.17
+longitudinal activity scores 3.17
+long-term oral anticoagulation 3.17
+kg body wt 3.17
+intracapsular hip fractures 3.17
+intensive care units 3.17
+insulin-stimulated glucose uptake 3.17
+individual patient data 3.17
+high-risk obstetric patients 3.17
+high flux hemodialysis 3.17
+granulocyte colony-stimulating factor 3.17
+government school meal 3.17
+government health services 3.17
+geriatric consultation teams 3.17
+gentle mechanical pressure 3.17
+erythrocyte folate levels 3.17
+elderly cancer patients 3.17
+early indomethacin group 3.17
+early adverse effects 3.17
+duchenne muscular dystrophy 3.17
+drug use prevalence 3.17
+double-blind randomized study 3.17
+double-blind cross-over study 3.17
+donor blood requirement 3.17
+dietary fat intake 3.17
+departmental clinical practice 3.17
+current hiv status 3.17
+conventional coronary angiography 3.17
+cognitive behaviour therapy 3.17
+clinical management policies 3.17
+chronic physical diseases 3.17
+chronic pain patients 3.17
+chronic osteoarthritis pain 3.17
+chronic fatigue syndrome 3.17
+child health campaign 3.17
+central venous catheters 3.17
+c reactive protein 3.17
+brief motivational intervention 3.17
+brief intervention group 3.17
+breast milk retinol 3.17
+brain arteriovenous malformations 3.17
+blood pressure control 3.17
+blood pressure changes 3.17
+australian emergency department 3.17
+antisocial personality disorder 3.17
+antenatal care coverage 3.17
+advanced hepatocellular carcinoma 3.17
+adult cardiac surgery 3.17
+adolescent smoking initiation 3.17
+acute respiratory infections 3.17
+acute pulmonary embolectomy 3.17
+acute otitis media 3.17
+acute cellular rejection 3.17
+active treatment groups 3.17
+abdominal wall hernia 3.17
+new york 3.13
+young parents 3.0
+weight management 3.0
+weaning trials 3.0
+veterans administration medical center nursing home care unit 3.0
+treatment periods 3.0
+total dose 3.0
+topical capsaicin 3.0
+time points 3.0
+thrombotic complications 3.0
+thromboembolic stockings 3.0
+theoretical framework 3.0
+teenage pregnancy 3.0
+task force 3.0
+surgical repair 3.0
+supportive counseling 3.0
+superior efficacy 3.0
+study population 3.0
+study gas 3.0
+study findings 3.0
+study entry 3.0
+study area 3.0
+statewide west nile virus public health education campaign 3.0
+smoke-free homes 3.0
+shoulder movement 3.0
+shoulder function 3.0
+sexual abuse 3.0
+self-help materials 3.0
+second phase 3.0
+saline group 3.0
+rural population 3.0
+road lighting 3.0
+respiratory rate 3.0
+rescue medication 3.0
+reference standard 3.0
+recurrent thrombosis 3.0
+recurrent fissure 3.0
+recent years 3.0
+real-time pcr 3.0
+random selection 3.0
+ptsd symptoms 3.0
+protective cream 3.0
+prostate cancer 3.0
+prophylactic somatostatin 3.0
+previous research 3.0
+preterm labour 3.0
+pounds sterling 3.0
+postoperative dvt 3.0
+post-operative complications 3.0
+placebo-treated patients 3.0
+physical endurance 3.0
+paediatric patients 3.0
+oxygen saturation 3.0
+ovulation induction 3.0
+original study 3.0
+oral anticoagulation 3.0
+older women 3.0
+older persons 3.0
+older age 3.0
+oesophageal candidiasis 3.0
+normal range 3.0
+nodal rhythm 3.0
+nj group 3.0
+neuropsychological performance 3.0
+negative results 3.0
+mg troche 3.0
+mental state 3.0
+median length 3.0
+mean morning 3.0
+magnesium supplementation 3.0
+magnesium sulphate 3.0
+low risk 3.0
+liver function 3.0
+life patterns 3.0
+levodopa dosage 3.0
+latter group 3.0
+lateral epicondylitis 3.0
+intravenous route 3.0
+intrauterine devices 3.0
+inpatient group 3.0
+information leaflets 3.0
+influenza b virus vaccine 3.0
+infectious complications 3.0
+infection rates 3.0
+indirect comparisons 3.0
+immunodeficiency syndrome 3.0
+high-risk populations 3.0
+heparin therapy 3.0
+health plans 3.0
+health facilities 3.0
+group h 3.0
+gold standard 3.0
+future campaigns 3.0
+foot pumps 3.0
+flexible flatfoot 3.0
+family psychotherapy 3.0
+evaluable cases 3.0
+ester form 3.0
+endoscopic ultrasound 3.0
+end-of-life care 3.0
+eligibility criteria 3.0
+effective tool 3.0
+early onset 3.0
+drug injection 3.0
+doppler ultrasound 3.0
+depressive illness 3.0
+dental fluorosis 3.0
+common complication 3.0
+colostomy group 3.0
+collaborative study 3.0
+cognitive symptoms 3.0
+codeine sulfate 3.0
+chronic illness 3.0
+chinese patients 3.0
+childhood migraine 3.0
+cervical ripening 3.0
+cardiovascular effects 3.0
+breast pain 3.0
+brain tumor 3.0
+biochemical breakthrough 3.0
+better results 3.0
+behavior change 3.0
+average dose 3.0
+antral mucosa 3.0
+antiretroviral therapies 3.0
+antiretroviral medications 3.0
+alternate forms 3.0
+aids education 3.0
+adolescent patients 3.0
+acute pancreatitis 3.0
+active treatments 3.0
+active management 3.0
+access system 3.0
+patient ' s 2.88
+affective disorder 2.86
+umbilical vein 2.83
+seventy-four chronic low back pain patients 2.58
+quantitative real-time polymerase chain reaction assays 2.58
+patients ' preoperative body mass index 2.58
+new york state cardiac surgery reports 2.58
+mean preoperative total harris hip score 2.58
+high school alcohol misuse prevention program 2.58
+heart failure disease management incorporating specialist 2.58
+family physician residents ' stress reduction 2.58
+dtc genetic testing companies ' websites 2.58
+community hospital adult cardiac surgery program 2.58
+child ' s major nutritional needs 2.58
+abnormal antenatal fetal heart rate traces 2.58
+initial dose 2.5
+hiv test 2.5
+g dose 2.5
+functional outcome 2.5
+anal pressure 2.5
+health service 2.43
+vitamin a supplementation 2.38
+assertive case management 2.38
+alcohol withdrawal syndrome 2.38
+substance abuse 2.33
+statin treatment 2.33
+women ' s educational status 2.32
+wk aerobic exercise training program 2.32
+week period music therapy sessions 2.32
+used selective serotonin reuptake inhibitors 2.32
+untreated metastatic measurable colorectal carcinoma 2.32
+symptom limited cardiopulmonary exercise test 2.32
+such so-called structured treatment interruptions 2.32
+subjects ' foot care knowledge 2.32
+statewide adolescent pregnancy prevention initiative 2.32
+south manchester family worker project 2.32
+short-term pre-operative smoking cessation intervention 2.32
+selective serotonin re-uptake inhibitor class 2.32
+rural women ' s satisfaction 2.32
+ringer ' s lactate solution 2.32
+reproductive medicine endometriosis staging scores 2.32
+quantitative rapid enzyme-linked immunosorbent assay 2.32
+primary unilateral total hip arthroplasty 2.32
+primary care physicians ' management 2.32
+postoperative open heart surgery patients 2.32
+positive soluble fibrin monomer complex 2.32
+open label pilot safety study 2.32
+non-steroidal anti-inflammatory drug-induced gastrointestinal toxicity 2.32
+moderate alzheimer ' s disease 2.32
+methylene blue increases vascular resistance 2.32
+medical outcome study short form 2.32
+median aged homologous blood units 2.32
+mean morning peak expiratory flow 2.32
+mean leg systolic arterial pressure 2.32
+large multidisciplinary pediatric outpatient clinic 2.32
+isolated calf muscle vein thrombosis 2.32
+intravenous bolus loading course regimen 2.32
+fresh elective single blastocyst transfer 2.32
+external pneumatic leg muscle compression 2.32
+elective lower segment caesarean section 2.32
+doxepin ' s side effects 2.32
+cox ' s regression model 2.32
+coronary risk factor behavior change 2.32
+continuous low-dose inhaled nitric oxide 2.32
+consumers ' health plan choices 2.32
+concurrent inhaled beclomethasone dipropionate therapy 2.32
+chronic obstructive pulmonary disease patients 2.32
+chronic obstructive pulmonary disease benefit 2.32
+chronic low back pain sufferers 2.32
+children ' s migraine prophylaxis 2.32
+children ' s medicaid program 2.32
+child ' s ordinary bedding 2.32
+cardiovascular disease prevention research field 2.32
+asd experiences acute behavioral changes 2.32
+adult female sexual abuse survivors 2.32
+adolescent bulimia nervosa treatment study 2.32
+adolescent attention deficit hyperactivity disorder 2.32
+g i 2.29
+mean r 2.25
+g i.v. 2.25
+youth drug prevention program 2.0
+young mothers 2.0
+young marijuana abusers benefit 2.0
+world health organization protocol 2.0
+week parent training program 2.0
+week follow-up 2.0
+week flunarizine treatment period 2.0
+week double-blind placebo-controlled trial 2.0
+washington state 2.0
+visual detection 2.0
+viral genomes 2.0
+veterans affair medical centre 2.0
+vertex presentation 2.0
+ventricular tachycardia 2.0
+ventricular end-diastolic volume index 2.0
+used noninvasive imaging tests 2.0
+us diabetes prevention program 2.0
+untreated groups 2.0
+unscheduled consultations 2.0
+university campus 2.0
+underlying issues 2.0
+umbilical artery velocity flow 2.0
+u bid 2.0
+tunnel syndrome 2.0
+tumor stenosis 2.0
+tt parents 2.0
+triplet pregnancy 2.0
+trimester miscarriage 2.0
+treatment schedule 2.0
+treatment courses 2.0
+treatment adherence 2.0
+training group 2.0
+total serum cholesterol level 2.0
+total phospholipids 2.0
+total disc replacement surgery 2.0
+total abstinence 2.0
+topical nonsteroidal antiinflammatory drugs 2.0
+tobacco exposure 2.0
+tissue adhesives 2.0
+thoracic surgery 2.0
+teacher training 2.0
+systemic therapy 2.0
+surgical technique 2.0
+surgeon ' s quality 2.0
+surface ' s time 2.0
+successful tb treatment rate 2.0
+successful patient flow methods 2.0
+subtotal hysterectomy 2.0
+substantial advantages 2.0
+substance abuse treatment program 2.0
+subsequent follow-up 2.0
+subjective evaluation 2.0
+subjective effects 2.0
+subcutaneous injections 2.0
+study protocol 2.0
+strong relationship 2.0
+streptokinase treatment 2.0
+streptokinase group 2.0
+standard regimen 2.0
+standard food safety guidelines 2.0
+specific pathways 2.0
+specialist orthopaedic surgery unit 2.0
+spasmolytic agent 2.0
+social pressures resistance training 2.0
+smoking policies 2.0
+sixty-two advanced nsclc patients 2.0
+single dose prophylactic antibiotics 2.0
+simultaneous immunization 2.0
+simpson ' s rule 2.0
+similar treatment completion rates 2.0
+similar efficacy 2.0
+short-term management 2.0
+short term qualitative study 2.0
+sexual relationships 2.0
+sexual partners 2.0
+sexual involvement 2.0
+severe cases 2.0
+severe carotid artery stenosis 2.0
+serum potassium 2.0
+serological methods 2.0
+serious problem 2.0
+serious complications 2.0
+sensitive interventions 2.0
+self-help social support services 2.0
+selective non-steroidal anti-inflammatory drugs 2.0
+s exact probability test 2.0
+rural women 2.0
+ruler measurement 2.0
+routine doppler ultrasound examinations 2.0
+reviewer ' s conclusions 2.0
+review ' s conclusions 2.0
+rest pain 2.0
+rescue percutaneous coronary intervention 2.0
+renal perfusion 2.0
+relatives ' affective attitudes 2.0
+regular dose 2.0
+reducing house dust mites 2.0
+reducing allogeneic blood use 2.0
+recombinant alpha 2.0
+rapid intravenous detoxification treatment 2.0
+rantes gene mrna expression 2.0
+randomized prospective clinical trial 2.0
+randomised double blind trial 2.0
+radioactive fibrinogen uptake test 2.0
+puerto rico 2.0
+psychosocial intervention 2.0
+psychological impact 2.0
+psychiatry residency training program 2.0
+prospective comparison 2.0
+program ' s impact 2.0
+prior allopathic drug therapy 2.0
+primary unilateral knee arthroplasty 2.0
+primary total knee arthroplasties 2.0
+primary joint replacement surgery 2.0
+primary care clinician attitudes 2.0
+previous prospective randomised trial 2.0
+pretreatment value 2.0
+pregnancy complications 2.0
+preferred method 2.0
+precious allogeneic blood reserves 2.0
+practice patterns 2.0
+practical model 2.0
+postpartum women 2.0
+postoperative therapeutic antibiotic usage 2.0
+postoperative rehabilitation 2.0
+postoperative homologous blood transfusions 2.0
+postoperative bleeding 2.0
+pooled results 2.0
+pleural effusions 2.0
+platelet counts 2.0
+plasma vitamin a level 2.0
+plasma retinol 2.0
+placebo-controlled trials 2.0
+placebo-controlled double-blind randomized study 2.0
+placebo solution 2.0
+placebo injection 2.0
+pharmacological stress test patients 2.0
+pharmaceutical care 2.0
+persistent rem sleep suppression 2.0
+peptic ulcer 2.0
+peak pain intensity difference 2.0
+peak expiratory flow rate 2.0
+patients meeting specific laboratory 2.0
+patients bleeding 2.0
+patients ' health status 2.0
+patient ' s time 2.0
+path analysis 2.0
+pain control 2.0
+overall prevalence 2.0
+oral appliances 2.0
+open method 2.0
+oncology nurses 2.0
+obstetric care 2.0
+objective verbal memory tests 2.0
+nosocomial infections 2.0
+northern nigeria 2.0
+new retrievable inferior vena 2.0
+new drug delivery system 2.0
+negative effects 2.0
+negative duplex ultrasonography finding 2.0
+natural killer cell number 2.0
+multiple sclerosis study group 2.0
+multiple disabilities 2.0
+multicenter italian randomised study 2.0
+months postpartum 2.0
+months follow-up 2.0
+month follow-ups 2.0
+model alcohol education curriculum 2.0
+mild group 2.0
+medical intensive care unit 2.0
+mean time 2.0
+mean incremental weight velocity 2.0
+mean entry cd4 count 2.0
+maximum security correctional setting 2.0
+maternal morbidity 2.0
+maternal health care services 2.0
+maternal deaths 2.0
+mao inhibition 2.0
+many countries 2.0
+male involvement 2.0
+major surgery 2.0
+major adverse cardiac events 2.0
+magnetic resonance imaging findings 2.0
+lower proportion 2.0
+low serum gastrin values 2.0
+low dose radiation therapy 2.0
+low dose heparin treatment 2.0
+low dose conventional heparin 2.0
+low back pain prevention 2.0
+lord total hip arthroplasties 2.0
+longer early psychological interventions 2.0
+long term parkinson disease 2.0
+local administration 2.0
+little difference 2.0
+liquid crystal contact thermography 2.0
+liposomal doxorubicin 2.0
+leakage episodes 2.0
+ldl-c levels 2.0
+latin america 2.0
+large tears 2.0
+large international clinical trial 2.0
+laparoscopic group 2.0
+laparoscopic general surgical procedures 2.0
+lamp findings 2.0
+known efficacy 2.0
+japanese dengue fever patients 2.0
+invasive total hip replacement 2.0
+intravenous vitamin b complex 2.0
+intravenous infusions 2.0
+intravaginal estriol tablet administration 2.0
+intolerable acute toxic effects 2.0
+intervention arm 2.0
+intervention ' s message 2.0
+intensive group 2.0
+institutional arrangements 2.0
+inner-city academic teaching hospital 2.0
+inhibitory effects 2.0
+inhaled calcium antagonist verapamil 2.0
+individual medication record card 2.0
+inadequate study quality assessment 2.0
+impaired pulmonary gas exchange 2.0
+immediate mandibular complete dentures 2.0
+image integration 2.0
+illness course 2.0
+human immunodeficiency virus load 2.0
+human immunodeficiency virus disease 2.0
+hour urine protein measurement 2.0
+homologous live virus vaccine 2.0
+hiv-specific cd8 2.0
+hiv-infected individuals 2.0
+historical controls 2.0
+historic controls 2.0
+hip implants 2.0
+high-risk primary prevention population 2.0
+high plasma hiv-1 rna 2.0
+high caries risk populations 2.0
+heroin use 2.0
+hepatitis b surface antigen 2.0
+healthcare improvement ' s 2.0
+health plan performance ratings 2.0
+health care report cards 2.0
+group processes 2.0
+group k 2.0
+grip strength 2.0
+ga group 2.0
+functional dependence 2.0
+forty-three patients 2.0
+forty-seven patients 2.0
+foot pump mechanical compression 2.0
+foot problems 2.0
+fluoxetine treatment 2.0
+fluoxetine patients 2.0
+fluid crystal contact thermography 2.0
+fluconazole group 2.0
+fixation monitoring 2.0
+first trimester 2.0
+first evidence 2.0
+fifty-four residency training directors 2.0
+fetal heart rate arrhythmia 2.0
+fertilization cycles 2.0
+female patients 2.0
+fecal samples 2.0
+fda food safety guidelines 2.0
+fatal outcome 2.0
+family physicians 2.0
+family history 2.0
+external ventricular drain catheters 2.0
+experiential avoidance 2.0
+ethnic minority drug users 2.0
+epidemiological effectiveness 2.0
+enzyme levels 2.0
+endovascular stent graft repair 2.0
+endovascular aortic aneurysm repair 2.0
+end points 2.0
+enamel opacities 2.0
+employee health plan choice 2.0
+empirical analysis 2.0
+emergency contraception 2.0
+educational programs 2.0
+ectopic pregnancy 2.0
+early provision 2.0
+earlier onset 2.0
+dust samples 2.0
+duplex scanning 2.0
+dsm iii 2.0
+dose adjustment 2.0
+distal pancreatectomy 2.0
+disseminated malignancy 2.0
+different bearing surface combination 2.0
+defective cellular immune responses 2.0
+daily visual analogue scores 2.0
+daily pain medication use 2.0
+daily activities 2.0
+d period prevalence rates 2.0
+cost-effective treatment 2.0
+cost savings 2.0
+corneal foreign body removal 2.0
+conventional medical analgesic methods 2.0
+controlled open clinical trial 2.0
+control arm 2.0
+continuous i.v. standard heparin 2.0
+congenital urinary tract obstruction 2.0
+comprehensive neuropsychological testing battery 2.0
+complete abortion 2.0
+comparative analysis 2.0
+comparable efficacy 2.0
+collaborative care 2.0
+clinical utility 2.0
+clinical services 2.0
+clinical reactions 2.0
+clinical criteria 2.0
+clinical assessment 2.0
+clinical application 2.0
+chronic hepatitis b infection 2.0
+chronic disseminated intravascular coagulation 2.0
+chronic alcoholism 2.0
+chronic active hepatitis b. 2.0
+child ' s pain 2.0
+central pulmonary artery pes 2.0
+caudal blockade 2.0
+catgut sutures 2.0
+case reports 2.0
+cardiac surgeons 2.0
+cannabis use 2.0
+cancer surgery 2.0
+bulimia nervosa treatment trial 2.0
+bristol randomized controlled trial 2.0
+brain tissue 2.0
+body surface 2.0
+body composition 2.0
+blood stasis 2.0
+blood conservation 2.0
+birth control 2.0
+better median survival duration 2.0
+bell palsy 2.0
+behavioral coping skills therapy 2.0
+baseline scores 2.0
+bacitracin spray 2.0
+audiometric findings 2.0
+artery ligation 2.0
+appropriate prophylaxis 2.0
+appropriate primary medical care 2.0
+anti-d treatment 2.0
+anchorage native infant population 2.0
+alprazolam treatment 2.0
+aerobic capacity 2.0
+adult smoking 2.0
+adult populations 2.0
+adult care food program 2.0
+adrenergic agonists 2.0
+adjuvant mistletoe treatment programme 2.0
+acute care paediatric patients 2.0
+actual patients ' pain 2.0
+abdominal adipose tissue levels 2.0
